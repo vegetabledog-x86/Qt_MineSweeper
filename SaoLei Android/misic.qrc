@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files/music/Funky Star.mp3</file>
+        <file>files/music/th03_OVER.mp3</file>
+        <file>files/music/win2000.mp3</file>
+        <file>files/music/win3.1.mp3</file>
+    </qresource>
+</RCC>
