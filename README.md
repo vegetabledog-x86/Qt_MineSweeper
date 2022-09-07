@@ -5,4 +5,4 @@ Qt is a cross-platform framework, and C++ is a cross-platform language, so theor
 # About the Android version
 The Android version was merely written to adjust the mobile phone's resolution, the basic principle is the same(except for the click logic).
 
-![image](https://user-images.githubusercontent.com/77112843/188803351-116f4534-36bf-467a-9203-24a5005ee55f.png)
+![image](https://user-images.githubusercontent.com/77112843/188803480-c9b247d2-e994-4aa0-906f-985a7da85872.png)
