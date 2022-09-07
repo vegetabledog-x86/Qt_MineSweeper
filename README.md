@@ -13,7 +13,10 @@ The Android version was merely written to adjust the mobile phone's resolution, 
 
 安卓版只是为了调整手机分辨率而写的，基本原理是一样的（除了点击逻辑）。
 
-![image](https://user-images.githubusercontent.com/77112843/188803480-c9b247d2-e994-4aa0-906f-985a7da85872.png)
-![Android](https://user-images.githubusercontent.com/77112843/188804148-5c9cd840-0d67-4979-8d69-b5ce33dd2c67.jpg)
+# Desktop 桌面版
 ![image](https://user-images.githubusercontent.com/77112843/188804264-385d58b5-42d4-43d1-99d8-5ee34c66f6bf.png)
+![image](https://user-images.githubusercontent.com/77112843/188803480-c9b247d2-e994-4aa0-906f-985a7da85872.png)
+
+# Mobile 移动版 
 ![image](https://user-images.githubusercontent.com/77112843/188804244-38744425-7e7e-4fd0-b165-35dc0ba9407c.png)
+![Android](https://user-images.githubusercontent.com/77112843/188804148-5c9cd840-0d67-4979-8d69-b5ce33dd2c67.jpg)
